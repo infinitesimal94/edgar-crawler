@@ -3,7 +3,7 @@
 		"start_year": 2021,
 		"end_year": 2021,
 		"quarters": [1, 2, 3, 4],
-		"filing_types": ["10-K", "10-K405", "10-KT"],
+		"filing_types": ["10-K"],
 		"cik_tickers": [],
 		"user_agent": "Your name (your email)",
 		"raw_filings_folder": "RAW_FILINGS",
